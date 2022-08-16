@@ -1,0 +1,87 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+p.Par-grafo-b-sico {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.glossario {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.364;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.bold {
+	color:#0080c9;
+	font-style:normal;
+	font-weight:bold;
+}
+p.ParaOverride-1 {
+	margin-top:9px;
+}
+p.ParaOverride-2 {
+	margin-top:9px;
+	page-break-after:always;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+span.CharOverride-1 {
+	font-size:10px;
+}
+span.CharOverride-2 {
+	color:#0080c9;
+	font-family:Calibri, sans-serif;
+	font-size:36px;
+	font-style:normal;
+	font-weight:normal;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+
+div#_idContainer000{
+	padding: 1em;
+}
+
+div#_idContainer000 p{
+	padding: 1em;
+}
