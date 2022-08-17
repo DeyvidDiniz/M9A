@@ -417,6 +417,7 @@ span.bold {
 }
 span.glossario {
 	text-decoration:underline;
+	text-decoration-color: rgb(255, 144, 144);
 }
 span.italico {
 	font-style:italic;
